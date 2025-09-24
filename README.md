@@ -25,7 +25,7 @@
 
 ## 🧠 About Me
 
-🎯 I'm a passionate .NET Developer with hands-on experience in building scalable APIs, real-time messaging apps, and healthcare systems. I thrive in Agile environments and enjoy solving complex backend challenges.
+🎯 I'm a .NET Developer with over 1 year of experience developing Web API for CRM and Hospital Information Systems (HIS). Proficient in ASP.NET Core, Entity Framework Core, SQL Server, WebSocket, and experienced with React Native, Git, and Firebase. Passionate about system performance optimization, clean code, and integrating new technologies into products.
 
 💡 Highlights:
 - Developed CRM and HIS APIs for Doctor Check clinic
