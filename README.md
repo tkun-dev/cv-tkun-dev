@@ -88,12 +88,27 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 Doctor Check CRM/HIS System  
-> Developed APIs for CRM and HIS systems, integrated WebSocket for real-time lead tracking, and optimized patient check-in workflows.
+### 🔹 CRM System – Lead Management & Automation  
+> Developed a CRM system for Doctor Check clinic to manage customer leads, automate workflows, and improve conversion tracking.
 
-- 🏥 Domain: Healthcare  
-- 🔧 Tech: ASP.NET Core, SQL Server, WebSocket, Power Automate  
-- 📈 Result: Reduced patient check-in time from 15s to 2s
+- 🔧 Tech: ASP.NET Core, SQL Server, Entity Framework, WebSocket, Firebase Cloud Messaging, Power Automate  
+- ⚙️ Features:
+  - Real-time lead collection via Pancake Chat integration
+  - Automated lead classification and assignment to sales team
+  - Conversion tracking and reporting  
+- 📈 Result: Streamlined lead handling and improved conversion efficiency
+
+---
+
+### 🔹 HIS System – Patient Check-in & Medical Workflow  
+> Built and optimized a Hospital Information System (HIS) to manage patient check-in, medical records, and internal workflows.
+
+- 🔧 Tech: ASP.NET Core, SQL Server, Entity Framework  
+- ⚙️ Features:
+  - Reception module for patient registration and queue management
+  - Medical record tracking and doctor assignment
+  - Integration with internal clinic systems  
+- 📈 Result: Reduced patient check-in time from 15s to 2s, improved operational flow
 
 ---
 
@@ -116,7 +131,6 @@
 
 - 📧 Email: trantuyen.developer.981@gmail.com  
 - 🌐 LinkedIn: [linkedin.com/in/tkun](https://linkedin.com/in/tkun)  
-- 🐙 GitHub: [github.com/tranminhtuyen](https://github.com/tranminhtuyen)
 
 ---
 
