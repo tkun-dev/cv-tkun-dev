@@ -117,13 +117,12 @@
 
 - 🔧 Tech: ASP.NET Core, SignalR, React Native, Firebase  
 - 📦 CI/CD: GitHub Actions + Docker  
-- 🔗 [GitHub Repo](https://github.com/yourusername/chat-chit)
 
 ---
 
 ## 📄 My CV
 
-📥 [Download CV (PDF)](./CV_Tran_Minh_Tuyen_Junior_English_Plus%20(1).pdf)
+📥 [Download CV (PDF)](./CV_Tran_Minh_Tuyen_Junior_English_Plus.pdf)
 
 ---
 
