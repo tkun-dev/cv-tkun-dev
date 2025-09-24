@@ -36,6 +36,39 @@
 
 ---
 
+## 💼 Work Experience
+
+### 🏥 Doctor Check Gastrointestinal Endoscopy Center  
+**.NET Developer**  
+📅 *July 2024 – September 2025*
+
+- Developed APIs for CRM and HIS systems using **ASP.NET Core**, **Entity Framework**, and **SQL Server**
+- Migrated legacy codebase from **.NET Framework** to **ASP.NET Core**
+- Wrote queries, optimized performance, and created stored procedures
+- Integrated **WebSocket**, **Firebase Cloud Messaging**, and **Power Automate** for real-time lead tracking and automation
+- Researched **Ocelot API Gateway** and **SQL Server Replication** for system scalability
+- Worked in **Agile/Scrum** teams and managed tasks via **Trello**
+
+---
+
+### 🎓 Graduation Thesis  
+📅 *January 2024 – June 2024*
+
+- Completed research and successfully built **“Online Messaging Application”**
+- Backend: **ASP.NET Core**, **SignalR**, **JWT Authentication**
+- Frontend: **React Native**, **Redux Toolkit**
+- CI/CD: **GitHub Actions**, **Docker**
+
+---
+
+### 💼 Internship – AIKING INVESTMENT  
+📅 *September 2023 – December 2023*
+
+- Learned **Agile/Scrum** development process
+- Contributed to API development for **“Online Shoe Store Application”** using **ASP.NET Core**
+
+---
+
 ## 🛠️ Tech Stack
 
 | Category         | Technologies                                                                 |
@@ -55,20 +88,20 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 Doctor Check CRM/HIS System
+### 🔹 Doctor Check CRM/HIS System  
 > Developed APIs for CRM and HIS systems, integrated WebSocket for real-time lead tracking, and optimized patient check-in workflows.
 
-- 🏥 Domain: Healthcare
-- 🔧 Tech: ASP.NET Core, SQL Server, WebSocket, Power Automate
+- 🏥 Domain: Healthcare  
+- 🔧 Tech: ASP.NET Core, SQL Server, WebSocket, Power Automate  
 - 📈 Result: Reduced patient check-in time from 15s to 2s
 
 ---
 
-### 🔹 ChatChit – Real-time Messaging App
+### 🔹 ChatChit – Real-time Messaging App  
 > A full-stack messaging app built with ASP.NET Core and React Native. Supports real-time communication via SignalR, push notifications via Firebase, and CI/CD with GitHub Actions.
 
-- 🔧 Tech: ASP.NET Core, SignalR, React Native, Firebase
-- 📦 CI/CD: GitHub Actions + Docker
+- 🔧 Tech: ASP.NET Core, SignalR, React Native, Firebase  
+- 📦 CI/CD: GitHub Actions + Docker  
 - 🔗 [GitHub Repo](https://github.com/yourusername/chat-chit)
 
 ---
@@ -83,6 +116,8 @@
 
 - 📧 Email: trantuyen.developer.981@gmail.com  
 - 🌐 LinkedIn: [linkedin.com/in/tkun](https://linkedin.com/in/tkun)  
+- 🐙 GitHub: [github.com/tranminhtuyen](https://github.com/tranminhtuyen)
+
 ---
 
 <p align="center">
