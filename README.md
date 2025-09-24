@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Entity_Framework-68217A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-68217A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SignalR-00BFFF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/WebSocket-FF9900?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
