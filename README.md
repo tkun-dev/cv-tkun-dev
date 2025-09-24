@@ -120,12 +120,6 @@
 
 ---
 
-## 📄 My CV
-
-📥 [Download CV (PDF)](./CV_Tran_Minh_Tuyen_Junior_English_Plus.pdf)
-
----
-
 ## 📫 Contact Me
 
 - 📧 Email: trantuyen.developer.981@gmail.com  
