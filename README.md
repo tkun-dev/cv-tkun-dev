@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Tran Minh Tuyen – Junior .NET Developer</h1>
+<h1 align="center">👨‍💻 Tran Minh Tuyen – .NET Developer</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
@@ -25,7 +25,7 @@
 
 ## 🧠 About Me
 
-🎯 I'm a passionate Junior .NET Developer with hands-on experience in building scalable APIs, real-time messaging apps, and healthcare systems. I thrive in Agile environments and enjoy solving complex backend challenges.
+🎯 I'm a passionate .NET Developer with hands-on experience in building scalable APIs, real-time messaging apps, and healthcare systems. I thrive in Agile environments and enjoy solving complex backend challenges.
 
 💡 Highlights:
 - Developed CRM and HIS APIs for Doctor Check clinic
@@ -55,21 +55,21 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 ChatChit – Real-time Messaging App
-> A full-stack messaging app built with ASP.NET Core and React Native. Supports real-time communication via SignalR, push notifications via Firebase, and CI/CD with GitHub Actions.
-
-- 🔧 Tech: ASP.NET Core, SignalR, React Native, Firebase
-- 📦 CI/CD: GitHub Actions + Docker
-- 🔗 [GitHub Repo](https://github.com/yourusername/chat-chit)
-
----
-
 ### 🔹 Doctor Check CRM/HIS System
 > Developed APIs for CRM and HIS systems, integrated WebSocket for real-time lead tracking, and optimized patient check-in workflows.
 
 - 🏥 Domain: Healthcare
 - 🔧 Tech: ASP.NET Core, SQL Server, WebSocket, Power Automate
 - 📈 Result: Reduced patient check-in time from 15s to 2s
+
+---
+
+### 🔹 ChatChit – Real-time Messaging App
+> A full-stack messaging app built with ASP.NET Core and React Native. Supports real-time communication via SignalR, push notifications via Firebase, and CI/CD with GitHub Actions.
+
+- 🔧 Tech: ASP.NET Core, SignalR, React Native, Firebase
+- 📦 CI/CD: GitHub Actions + Docker
+- 🔗 [GitHub Repo](https://github.com/yourusername/chat-chit)
 
 ---
 
@@ -81,10 +81,8 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: tranminhtuyen.dev@gmail.com  
-- 🌐 LinkedIn: [linkedin.com/in/tranminhtuyen](https://linkedin.com/in/tranminhtuyen)  
-- 🐙 GitHub: [github.com/tranminhtuyen](https://github.com/tranminhtuyen)
-
+- 📧 Email: trantuyen.developer.981@gmail.com  
+- 🌐 LinkedIn: [linkedin.com/in/tkun](https://linkedin.com/in/tkun)  
 ---
 
 <p align="center">
