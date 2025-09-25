@@ -25,7 +25,7 @@
 
 ## 🧠 About Me
 
-🎯 I'm a .NET Developer with over 1 year of experience developing Web API for CRM and Hospital Information Systems (HIS). Proficient in ASP.NET Core, Entity Framework Core, SQL Server, WebSocket, and experienced with React Native, Git, and Firebase. Passionate about system performance optimization, clean code, and integrating new technologies into products.
+🎯 I'm a .NET Developer with nearly 2 year of experience developing Web API for CRM and Hospital Information Systems (HIS). Proficient in ASP.NET Core, Entity Framework Core, SQL Server, WebSocket, and experienced with React Native, Git, and Firebase. Passionate about system performance optimization, clean code, and integrating new technologies into products.
 
 💡 Highlights:
 - Developed CRM and HIS APIs for Doctor Check clinic
@@ -44,7 +44,7 @@
 
 - Developed APIs for CRM and HIS systems using **ASP.NET Core**, **Entity Framework**, and **SQL Server**
 - Migrated legacy codebase from **.NET Framework** to **ASP.NET Core**
-- Wrote queries, optimized performance, and created stored procedures
+- Worked with SQL Server: write queries, optimize performance, and create stored procedures.
 - Integrated **WebSocket**, **Firebase Cloud Messaging**, and **Power Automate** for real-time lead tracking and automation
 - Researched **Ocelot API Gateway** and **SQL Server Replication** for system scalability
 - Worked in **Agile/Scrum** teams and managed tasks via **Trello**
