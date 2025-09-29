@@ -69,6 +69,14 @@
 
 ---
 
+### 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tkun-dev&show_icons=true&theme=radical&hide_title=true)
+
+### 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tkun-dev&layout=compact&theme=radical)
+
 ## 🛠️ Tech Stack
 
 | Category         | Technologies                                                                 |
