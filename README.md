@@ -69,14 +69,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tkun-dev&show_icons=true&theme=radical&hide_title=true)
-
-### 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tkun-dev&layout=compact&theme=radical)
-
 ## 🛠️ Tech Stack
 
 | Category         | Technologies                                                                 |
@@ -134,6 +126,14 @@
 - 🌐 LinkedIn: [linkedin.com/in/tkun](https://linkedin.com/in/tkun)  
 
 ---
+
+### 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tkun-dev&show_icons=true&theme=radical&hide_title=true)
+
+### 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tkun-dev&layout=compact&theme=radical)
 
 <p align="center">
   <i>Thanks for visiting! Feel free to connect or check out my projects.</i>
