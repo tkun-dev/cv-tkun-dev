@@ -131,12 +131,12 @@
 
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=tkun-dev&show_icons=true&theme=radical" />
-    </td>
-    <td>
+     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkun-dev&layout=compact&theme=radical" />
     </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=tkun-dev&show_icons=true&theme=radical" />
+    </td>  
   </tr>
 </table>
 
