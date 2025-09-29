@@ -129,11 +129,16 @@
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tkun-dev&show_icons=true&theme=radical&hide_title=true)
-
-### 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tkun-dev&layout=compact&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=tkun-dev&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkun-dev&layout=compact&theme=radical" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <i>Thanks for visiting! Feel free to connect or check out my projects.</i>
